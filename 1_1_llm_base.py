@@ -2,6 +2,8 @@ from openai import OpenAI
 from dotenv import load_dotenv
 import os
 
+
+#tangtangtang
 load_dotenv()
 
 # 初始化客户端（DeepSeek完全兼容OpenAI接口格式）
